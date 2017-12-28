@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi, guis!
+
+Habot here, I like Javascript/
+I've had tacos on the moon and find them superior.
